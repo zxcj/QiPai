@@ -1,0 +1,1819 @@
+animation Point084
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point083
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point082
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point081
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point080
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point079
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point078
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point077
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point076
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point075
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point074
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point073
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point072
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point071
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point070
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point069
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point068
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point067
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point066
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point065
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point064
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point063
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point062
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point061
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point060
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point059
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point058
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point057
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point056
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point055
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point054
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point053
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point052
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point051
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point049
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point048
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point047
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point046
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point045
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point044
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point043
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point042
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point041
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point040
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone709
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone710
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone711
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone712
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone713
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone704
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone705
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone706
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone707
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone708
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone699
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone700
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone701
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone702
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone703
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone690
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone691
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone692
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone693
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone694
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone689
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone695
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone696
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone697
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone698
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone684
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone685
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone686
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone687
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone688
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone679
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone680
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone681
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone682
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone683
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point023
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point024
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point022
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point021
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point020
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point012
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point019
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point038
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point039
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point037
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point036
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point035
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point034
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point033
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point032
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point031
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point030
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point029
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point028
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point027
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point026
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point025
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point010
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point005
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Bone714
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation Point050
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation group_Mod
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+
+animation group_Fish_Box
+{
+    frameCount = 400
+
+    startTime = 0
+
+    stopTime = 13333
+
+    clip Default
+    {
+        begin = 0
+        end = 400
+        repeatCount = 1
+    }
+
+}
+

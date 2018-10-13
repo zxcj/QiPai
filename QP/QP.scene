@@ -5,7 +5,7 @@ scene
     showDefaultLight = false
     ambientColor = 1.0, 1.0, 1.0
 
-    modelSize = 5000.0
+    modelSize = 750.0
     modelScale = 1.0
 
     node Fish_Box_001
@@ -82,60 +82,100 @@ scene
     }
     node Group_UI1
     {
+       // enabled=false
+       static=true
     }
     node Group_UI2
     {
+       enabled=false
+       static=true
+
     }
     node Group_UI3
     {
+        enabled=false
+       static=true
+
     }
     node Group_heibian
     {
+        enabled=false
+       static=true
+
     }
     node HaiCao_Mod_005
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Light
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Light001
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RG_Fish_Mod_01
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RG_Fish_Mod_02
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RG_Fish_Mod_03
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RG_Fish_Mod_04
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RL_Fish_Mod_01
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RL_Fish_Mod_02
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node RL_Fish_Mod_03
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Sea_Mod_027
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node TeXiao_Lizi
     {
+        particle=bundle/particle/shui.particle
     }
     node UI1_chuo
     {
+        translate=0,0,500
+        enabled=false
     }
     node UI1_tishi
     {
+        translate=0,0,450
+        enabled=false
     }
     node UI1_wenzi
     {
+        translate=0,0,400
+        enabled=false
     }
     node UI2_beijing
     {
@@ -157,57 +197,93 @@ scene
     }
     node Water_Mod_01
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_01
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_012
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_013
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_014
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_015
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_016
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_017
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_02
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_03
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_04
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_05
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_06
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_07
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_08
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_09
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_10
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node Y_Fish_Mod_11
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node group_Fish_Box
     {
@@ -223,9 +299,13 @@ scene
     }
     node heibian1
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node heibian2
     {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
 
 }

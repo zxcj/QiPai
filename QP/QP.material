@@ -21,7 +21,7 @@ material textured
             
             renderState
             {
-                blend = false
+                blend = true
                 blendDst = ONE_MINUS_SRC_ALPHA
                 blendSrc = SRC_ALPHA
                 cullFace = true
@@ -304,6 +304,10 @@ material Material__50 : textured
     {
         pass 
         {
+            renderState
+            {
+                cullFace=false
+            }
             u_matrixPalette = MATRIX_PALETTE
             
             defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
@@ -342,7 +346,7 @@ material Material__52 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1
         }
     }
 }

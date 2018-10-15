@@ -1,4 +1,9 @@
 {
-    "track.mode": "0",
-    "animation.autostart": "0"
+    "track.mode": "1",
+    "animation.autostart": "0",
+    "track.attitude":"4",
+    "ui.recording":"0",
+    "gesture.rotatable":"0",
+    "gesture.draggable":"0",
+    "gesture.scalable":"0"
 }

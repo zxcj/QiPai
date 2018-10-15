@@ -8,27 +8,6 @@ scene
     modelSize = 750.0
     modelScale = 1.0
 
-    node Fish_Box_001
-    {
-    }
-    node Fish_Box_002
-    {
-    }
-    node Fish_Box_003
-    {
-    }
-    node Fish_Box_004
-    {
-    }
-    node Fish_Box_005
-    {
-    }
-    node Fish_Box_006
-    {
-    }
-    node Fish_Box_007
-    {
-    }
     node Fish_Box_008
     {
     }
@@ -80,28 +59,10 @@ scene
     node Fish_Box_024
     {
     }
-    node Group_UI1
-    {
-       // enabled=false
-       static=true
-    }
-    node Group_UI2
-    {
-       enabled=false
-       static=true
-
-    }
-    node Group_UI3
-    {
-        enabled=false
-       static=true
-
-    }
     node Group_heibian
     {
         enabled=false
-       static=true
-
+        static=true
     }
     node HaiCao_Mod_005
     {
@@ -110,11 +71,7 @@ scene
     }
     node Light
     {
-        oneBoundMin=0,0,0
-        oneBoundMax=0.1,0.1,0.1
-    }
-    node Light001
-    {
+        enabled=false
         oneBoundMin=0,0,0
         oneBoundMax=0.1,0.1,0.1
     }
@@ -153,6 +110,27 @@ scene
         oneBoundMin=0,0,0
         oneBoundMax=0.1,0.1,0.1
     }
+    node R_Fish_Box_01
+    {
+    }
+    node R_Fish_Box_02
+    {
+    }
+    node R_Fish_Box_03
+    {
+    }
+    node R_Fish_Box_04
+    {
+    }
+    node R_Fish_Box_05
+    {
+    }
+    node R_Fish_Box_06
+    {
+    }
+    node R_Fish_Box_07
+    {
+    }
     node Sea_Mod_027
     {
         oneBoundMin=0,0,0
@@ -160,22 +138,24 @@ scene
     }
     node TeXiao_Lizi
     {
-        particle=bundle/particle/shui.particle
     }
-    node UI1_chuo
+    node UI1_beijing
     {
-        translate=0,0,500
-        enabled=false
     }
-    node UI1_tishi
+    node UI1_fudai
     {
-        translate=0,0,450
         enabled=false
     }
     node UI1_wenzi
     {
-        translate=0,0,400
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
         enabled=false
+    }
+    node UI1_zuoyou
+    {
+        oneBoundMin=0,0,0
+        oneBoundMax=0.1,0.1,0.1
     }
     node UI2_beijing
     {
@@ -183,10 +163,13 @@ scene
     node UI2_daizou
     {
     }
+    node UI2_guanbi
+    {
+    }
     node UI2_pick
     {
     }
-    node UI3_beijing
+    node UI3_beijing1
     {
     }
     node UI3_tuichu
@@ -293,6 +276,21 @@ scene
     }
     node group_R_Fish
     {
+    }
+    node group_UI1
+    {
+        //enabled=false
+       static=true
+    }
+    node group_UI2
+    {
+        enabled=false
+        static=true
+    }
+    node group_UI3
+    {
+        enabled=false
+        static=true
     }
     node group_Y_Fish
     {

@@ -72,7 +72,7 @@ material 17___Default : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -90,7 +90,7 @@ material Material__27 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -108,7 +108,7 @@ material Material__28 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -126,191 +126,7 @@ material Material__29 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__37 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/tishi.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__39 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/btn_llingjiang.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__40 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/tishi4.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__42 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/btn_daizou.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__43 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/btn_pick.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__44 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/pop_1.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__46 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/btn_tuichu.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__47 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/btn_zaiyici.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__48 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/pop_2.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
-        }
-    }
-}
-
-material Material__50 : textured
-{
-    sampler u_diffuseTexture
-    {
-        path = QP.fbm/QP_changjing_04_Tex.png
-    }
-
-    technique
-    {
-        pass 
-        {
-            renderState
-            {
-                cullFace=false
-            }
-            u_matrixPalette = MATRIX_PALETTE
-            
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -328,7 +144,7 @@ material Material__51 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -346,7 +162,7 @@ material Material__52 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -364,7 +180,7 @@ material Material__78 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -378,7 +194,7 @@ material lambert1 : colored
             u_diffuseColor = 0.5, 0.5, 0.5, 1
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -396,7 +212,7 @@ material lambert12 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -414,7 +230,7 @@ material lambert15 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
         }
     }
 }
@@ -432,7 +248,223 @@ material lambert18 : textured
         {
             u_matrixPalette = MATRIX_PALETTE
             
-            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 46
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert20 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/qidongye.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert21 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/tishi.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert22 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_jingxi.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert23 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/pop_1.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert24 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/jieshuye.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert25 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_hongbao.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert26 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_zhuangbei.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert27 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_guanbi.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert28 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_tuichu.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert29 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_zaiwanyici.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert30 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/jieshuye1.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39
+        }
+    }
+}
+
+material lambert31 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_04_Tex.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 39;TEXTURE_DISCARD_ALPHA;DISCARD_ALPHA 0.5
         }
     }
 }

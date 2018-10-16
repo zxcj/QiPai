@@ -13,18 +13,18 @@ particle Untitled
         frameDuration = 0
     }
 
-    particleCountMax = 300
-    emissionRate = 30
+    particleCountMax = 3000
+    emissionRate = 300
     ellipsoid = true
     orbitPosition = true
     orbitVelocity = true
     orbitAcceleration = false
-    sizeStartMin = 1000
-    sizeStartMax = 2000
+    sizeStartMin = 250
+    sizeStartMax = 800
     sizeEndMin = 500
     sizeEndMax = 1000
     energyMin = 750
-    energyMax = 20000
+    energyMax = 15000
     colorStart = 1, 1, 1, 1
     colorStartVar = 0.25, 0, 0, 0
     colorEnd = 0, 0, 0, 0

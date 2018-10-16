@@ -1,4 +1,4 @@
-animation Bone709
+animation Bone021
 {
     frameCount = 400
 
@@ -15,7 +15,7 @@ animation Bone709
 
 }
 
-animation Bone710
+animation Bone042
 {
     frameCount = 400
 
@@ -32,7 +32,7 @@ animation Bone710
 
 }
 
-animation Bone711
+animation Bone016
 {
     frameCount = 400
 
@@ -49,7 +49,7 @@ animation Bone711
 
 }
 
-animation Bone712
+animation Bone038
 {
     frameCount = 400
 
@@ -66,7 +66,7 @@ animation Bone712
 
 }
 
-animation Bone713
+animation Bone011
 {
     frameCount = 400
 
@@ -83,7 +83,7 @@ animation Bone713
 
 }
 
-animation Bone704
+animation Bone034
 {
     frameCount = 400
 
@@ -100,7 +100,7 @@ animation Bone704
 
 }
 
-animation Bone705
+animation Bone006
 {
     frameCount = 400
 
@@ -117,7 +117,7 @@ animation Bone705
 
 }
 
-animation Bone706
+animation Bone030
 {
     frameCount = 400
 
@@ -134,7 +134,7 @@ animation Bone706
 
 }
 
-animation Bone707
+animation Bone001
 {
     frameCount = 400
 
@@ -151,449 +151,7 @@ animation Bone707
 
 }
 
-animation Bone708
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone699
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone700
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone701
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone702
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone703
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone690
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone691
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone692
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone693
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone694
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone689
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone695
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone696
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone697
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone698
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone684
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone685
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone686
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone687
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone688
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone679
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone680
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone681
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone682
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone683
-{
-    frameCount = 400
-
-    startTime = 0
-
-    stopTime = 13333
-
-    clip Default
-    {
-        begin = 0
-        end = 400
-        repeatCount = 1
-    }
-
-}
-
-animation Bone714
+animation Bone026
 {
     frameCount = 400
 

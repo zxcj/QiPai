@@ -5,9 +5,26 @@ var url_1=null;
 var url_2=null;
 var url_3=null;
 AR.onload = function() {
+
+	AR.play("Bone021#Default",0);
+	AR.play("Bone042#Default",0);
+	AR.play("Bone016#Default",0);
+	AR.play("Bone038#Default",0);
+	AR.play("Bone034#Default",0);
+	AR.play("Bone011#Default",0);
+	AR.play("Bone006#Default",0);
+	AR.play("Bone030#Default",0);
+	AR.play("Bone001#Default",0);
+	AR.play("Bone026#Default",0);
+	AR.play("joint1#Default",0);
+	AR.play("Point023#Default",0);
     PlayFishesAnimation();  
     EnvironmentAnimation();
-    
+	AR.audio_play("bundle/sounds/bgm.mp3");
+	AR.setInterval(function(){
+		AR.audio_play("bundle/sounds/bgm.mp3");
+	},12000)
+
     AR.set_visible("UI1_beijing",true);
     AR.set_visible("UI1_zuoyou",true);
     backgroundFish=AR.setTimeout(function(){
@@ -104,7 +121,8 @@ function OnClickFish(_nodeId){
         AR.set_visible("group_Fish_Box",false);
         AR.set_visible("group_R_Fish",false);
         AR.set_visible("group_Y_Fish",false);
-        AR.set_visible("UI1_wenzi",false); 
+		AR.set_visible("UI1_wenzi",false); 
+		AR.set_texture("UI2_beijing","bundle/views/jieshuye"+Math.round(Math.random()*3)%3+".png");
     }
     else{
         //TODO: 未中奖

@@ -24,7 +24,7 @@ material textured
                 blend = true
                 blendDst = ONE_MINUS_SRC_ALPHA
                 blendSrc = SRC_ALPHA
-                cullFace = true
+                cullFace = false
                 cullFaceSide = BACK
                 depthTest = true
             }
@@ -84,6 +84,10 @@ material Material__27 : textured
         path = QP.fbm/QP_changjing_01_Tex.png
     }
 
+    renderState
+    {
+        cullFace = false
+    }
     technique
     {
         pass 
@@ -106,6 +110,10 @@ material Material__28 : textured
     {
         pass 
         {
+            renderState
+            {
+                cullFace = false
+            }
             u_matrixPalette = MATRIX_PALETTE
             
             defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
@@ -119,7 +127,10 @@ material Material__29 : textured
     {
         path = QP.fbm/QP_changjing_03_Tex.png
     }
-
+    renderState
+    {
+        cullFace = false
+    }
     technique
     {
         pass 
@@ -257,7 +268,7 @@ material lambert24 : textured
 {
     sampler u_diffuseTexture
     {
-        path =bundle/views/jieshuye1.png
+        path =bundle/views/jieshuye0.png
     }
 
     technique
@@ -313,7 +324,10 @@ material lambert27 : textured
     {
         path = QP.fbm/btn_guanbi.png
     }
-
+    renderState
+    {
+        cullFace = false
+    }
     technique
     {
         pass 
@@ -331,7 +345,10 @@ material lambert28 : textured
     {
         path = QP.fbm/btn_tuichu.png
     }
-
+    renderState
+    {
+        cullFace = false
+    }
     technique
     {
         pass 
@@ -349,7 +366,10 @@ material lambert29 : textured
     {
         path = QP.fbm/btn_zaiwanyici.png
     }
-
+    renderState
+    {
+        cullFace = false
+    }
     technique
     {
         pass 

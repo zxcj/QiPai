@@ -23,17 +23,21 @@ AR.onload = function() {
 	AR.audio_play("bundle/sounds/bgm.mp3");
 	AR.setInterval(function(){
 		AR.audio_play("bundle/sounds/bgm.mp3");
-	},12000)
+	},13000)
 
     AR.set_visible("UI1_beijing",true);
-    AR.set_visible("UI1_zuoyou",true);
     backgroundFish=AR.setTimeout(function(){
-        AR.set_visible("UI1_zuoyou",false);
+		AR.set_visible("UI1_zuoyou",true);
+
+		AR.setTimeout(function(){
+			AR.set_visible("UI1_zuoyou",false);			
+		},3000)
+		
         AR.set_visible("UI1_beijing",false);
         canClickFish=true;
         AR.set_visible("UI1_fudai",true);
         AR.clearTimeout(backgroundFish);
-    },3000);
+    },5000);
 };
 
 AR.onbegin = function(clipId) {
@@ -80,7 +84,11 @@ AR.onclick = function(nodeId, x, y) {
 
     if(nodeId=="UI3_tuichu"){
         AR.exit();
-    }
+	};
+	
+	if(nodeId=="UI2_beijing"){
+		antHelper.getTicket("jieshuye");
+	}
 
     if(canClickFish)
         OnClickFish(nodeId);
@@ -113,7 +121,8 @@ function PlayFishesAnimation() {
 
 
 function OnClickFish(_nodeId){
-    if(_nodeId==null|| _nodeId.indexOf("Fish")<0)return;   
+	if(_nodeId==null|| _nodeId.indexOf("Fish")<0)return;   
+	AR.audio_play("bundle/sounds/click.mp3");
     if(_nodeId.indexOf("R_Fish_Box")>=0){
         //TODO:中奖
         AR.set_visible("group_UI2",true);
@@ -122,7 +131,7 @@ function OnClickFish(_nodeId){
         AR.set_visible("group_R_Fish",false);
         AR.set_visible("group_Y_Fish",false);
 		AR.set_visible("UI1_wenzi",false); 
-		AR.set_texture("UI2_beijing","bundle/views/jieshuye"+Math.round(Math.random()*3)%3+".png");
+		//AR.set_texture("UI2_beijing","bundle/views/jieshuye"+Math.round(Math.random()*3)%3+".png");
     }
     else{
         //TODO: 未中奖

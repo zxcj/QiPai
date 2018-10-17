@@ -185,6 +185,7 @@ scene
     }
     node UI1_zuoyou
     {
+        enabled=false
         oneBoundMin=0,0,0
         oneBoundMax=0.1,0.1,0.1      
     }

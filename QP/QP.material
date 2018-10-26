@@ -1,0 +1,419 @@
+material textured
+{
+    sampler u_diffuseTexture
+    {
+        mipmap = false
+        wrapS = CLAMP
+        wrapT = CLAMP
+        minFilter = LINEAR
+        magFilter = LINEAR
+    }
+
+    technique
+    {
+        pass 
+        {
+            vertexShader = shaders/textured.vert
+            fragmentShader = shaders/textured.frag
+
+            u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+            u_worldViewProjectionMatrix = WORLD_VIEW_PROJECTION_MATRIX
+            
+            renderState
+            {
+                blend = true
+                blendDst = ONE_MINUS_SRC_ALPHA
+                blendSrc = SRC_ALPHA
+                cullFace = false
+                cullFaceSide = BACK
+                depthTest = true
+            }
+            
+        }
+    }
+}
+
+material colored
+{
+    technique
+    {
+        pass 
+        {
+            vertexShader = shaders/colored.vert
+            fragmentShader = shaders/colored.frag
+
+            u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+            u_worldViewProjectionMatrix = WORLD_VIEW_PROJECTION_MATRIX
+            
+            renderState
+            {
+                blend = false
+                blendDst = ONE_MINUS_SRC_ALPHA
+                blendSrc = SRC_ALPHA
+                cullFace = true
+                cullFaceSide = BACK
+                depthTest = true
+            }
+            
+        }
+    }
+}
+
+material 17___Default : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/heibian.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material Material__27 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_01_Tex.png
+    }
+
+    renderState
+    {
+        cullFace = false
+    }
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material Material__28 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_02_Tex.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            renderState
+            {
+                cullFace = false
+            }
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material Material__29 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_03_Tex.png
+    }
+    renderState
+    {
+        cullFace = false
+    }
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material Material__52 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/tou.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23;TEXTURE_DISCARD_ALPHA;DISCARD_ALPHA 0.5
+        }
+    }
+}
+
+material Material__81 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_06_Tex.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert1 : colored
+{
+    technique
+    {
+        pass 
+        {
+            u_diffuseColor = 0.5, 0.5, 0.5, 1
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert20 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/qidongye.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert21 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/tishi.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert22 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_jingxi.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert23 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path =bundle/views/pop_1.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert24 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path =bundle/views/jieshuye0.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert25 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_hongbao.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert26 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_zhuangbei.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert27 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_guanbi.png
+    }
+    renderState
+    {
+        cullFace = false
+    }
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert28 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_tuichu.png
+    }
+    renderState
+    {
+        cullFace = false
+    }
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert29 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/btn_zaiwanyici.png
+    }
+    renderState
+    {
+        cullFace = false
+    }
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert30 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/jieshuye1.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
+material lambert31 : textured
+{
+    sampler u_diffuseTexture
+    {
+        path = QP.fbm/QP_changjing_08_Tex.png
+    }
+
+    technique
+    {
+        pass 
+        {
+            u_matrixPalette = MATRIX_PALETTE
+            
+            defines = DIRECTIONAL_LIGHT_COUNT 1;SKINNING;SKINNING_JOINT_COUNT 23
+        }
+    }
+}
+
